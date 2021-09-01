@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/NathanLaytJobCandidate/pennywise-cover-letter/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# Hello Pennywise - I would like to be your new Retail Assistant!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About Me:
+### Mr. Nathan Layt 
 
-### Markdown
+1/9 Lodge Court Goodna, QLD 4300
+Mobile number: 0455 265 526  
+Email: nathan.layt@outlook.com
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+Dear Sir/Madam,  
+I would like to introduce myself, my name is Nathan Layt. I am an Australian citizen living locally in Goodna. I am able to use public transport and have full time availability. I am seeking future employment opportunities within a company such as yours where I can use my current skills and learn on the job to meet and exceed my employer’s expectations.
 
-# Header 1
-## Header 2
-### Header 3
+With years of experience in advanced computer skills, logistics and sales experience working for Foxtel, working without supervision and completing tasks with high attention to detail. I have developed a good and strong work ethic, I am fit and healthy and ready for the challenges that new employment will offer. I am currently doing part time study to increase my knowledge and keep up to date with my IT skills. This study can be flexible.
 
-- Bulleted
-- List
+Thank you for taking the time to read my cover letter and resume, I can be contacted at the above email address to answer any further questions you may have or to attend an interview at your convenience.
 
-1. Numbered
-2. List
+Sincerely
 
-**Bold** and _Italic_ and `Code` text
+Nathan Layt
 
-[Link](url) and ![Image](src)
-```
+![USQProfilePicture](https://user-images.githubusercontent.com/89915725/131674118-f8e8ff26-c325-486f-8ad9-2628b0fc889c.jpg)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NathanLaytJobCandidate/pennywise-cover-letter/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
